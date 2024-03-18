@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\Zoologico.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\bin\Debug\net8.0\Zoologico.exe
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\bin\Debug\net8.0\Zoologico.deps.json
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\bin\Debug\net8.0\Zoologico.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\bin\Debug\net8.0\Zoologico.dll
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\bin\Debug\net8.0\Zoologico.pdb
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\Zoologico.dll
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\refint\Zoologico.dll
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\Zoologico.pdb
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\Zoologico.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Zoo C#\Zoologico\obj\Debug\net8.0\ref\Zoologico.dll
